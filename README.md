@@ -13,8 +13,8 @@
    pip install -r requirements.txt
    ```
 
-3. **Create a `config.py` file:**
-   - Copy `config_template.py` to `config.py`.
+3. **Update the `config.py` file:**
+   - Open `config.py` (already included in the project).
    - Update the following fields with your own information:
      - `BOT_TOKEN`: Your Telegram Bot token (get it from @BotFather).
      - `project_id`: Your Google Cloud project ID.
